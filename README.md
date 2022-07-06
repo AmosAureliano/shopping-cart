@@ -1,7 +1,7 @@
 # Shoppping Cart
 
 <div align="center" id="shopping-cart">
-    Você pode acessar a versão hospedada em: 
+    Você pode acessar a versão hospedada em: <a href="https://shopping-cart-zgbbehfby-aurelianoamosg20.vercel.app/" target="_blank">Acessar</a>
 </div>
 
 <br>
