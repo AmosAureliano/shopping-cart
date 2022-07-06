@@ -1,12 +1,8 @@
 # Shoppping Cart
 
 <div align="center" id="shopping-cart">
+    Você pode acessar a versão hospedada em: 
 </div>
-<br>
-
-<br>
-## Versão hospedada
-Você pode acessar a versão hospedada em: 
 
 <br>
 
