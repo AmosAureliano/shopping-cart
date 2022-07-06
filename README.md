@@ -1,10 +1,6 @@
 # Shoppping Cart
 
 <div align="center" id="shopping-cart">
-    <img src="./assets/logo.svg" alt="exemplo imagem">
-    
-<br>
-    <img src="https://github.com/rocketseat-education/maratona-discover-01/raw/main/.github/devfinances.png" alt="exemplo imagem">
 </div>
 <br>
 
